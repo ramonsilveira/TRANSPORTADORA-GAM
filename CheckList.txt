@@ -1,6 +1,6 @@
-Conceito: check list é uma sequencia de coisas que precisam ser feitas sem que haja esquecimento
+Conceito: check list é uma sequência de coisas que precisam ser feitas sem que haja esquecimento
 
-Check list obirgação do ISS
+Check list obrigação do ISS
 
 - Gerar relatório das notas com retenção lançadas
 - Gerar relatório do site da prefeitura
