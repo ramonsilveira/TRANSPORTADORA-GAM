@@ -1,0 +1,13 @@
+Conceito: check list é uma sequencia de coisas que precisam ser feitas sem que haja esquecimento
+
+Check list obirgação do ISS
+
+- Gerar relatório das notas com retenção lançadas
+- Gerar relatório do site da prefeitura
+- Comparar as informações se batem, valores e quantidade de notas
+- Gerar guia para pagamento
+- Colocar as informações na rede
+- Levar para pagamento
+
+Sistema utilizado:
+Excel, SQL e Navegador de internet
